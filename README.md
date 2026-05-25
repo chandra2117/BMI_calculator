@@ -1,6 +1,6 @@
 # Ex06 BMI Calculator
-## Date: 22.03.2026
-## Reg No: 212224040010
+## Date: 25.05.2026
+## Reg No: 212223240019
 ## AIM
 To develop a responsive and interactive Body Mass Index (BMI) Calculator using React that allows users to input their height and weight, and calculates their BMI to categorize their health status (e.g., Underweight, Normal, Overweight, Obese).
 
